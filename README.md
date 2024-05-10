@@ -1,3 +1,4 @@
+![IMG_20240510_095109](https://github.com/piyush-74/Weather-App--Reactjs/assets/169228523/b2d70205-d3a8-4b7d-be26-480ffd846f42)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -62,7 +63,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
-![IMG_20240510_095109](https://github.com/piyush-74/Weather-App--Reactjs/assets/169228523/b2d70205-d3a8-4b7d-be26-480ffd846f42)
+
 
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
